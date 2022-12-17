@@ -26,7 +26,9 @@ Here is what we will build in this section!
 
 * In `style.css`, create a selector that targets the `heroGrid ID`.
 
-  ![heroGrid CSS Selector](images/heroGrid-css-selector.png)
+<img width="683" alt="1" src="https://user-images.githubusercontent.com/102771343/208268967-ce807b6b-b540-4f72-8592-5c079c62d73c.png">
+<img width="547" alt="heroGrid-css-selector" src="https://user-images.githubusercontent.com/102771343/208269120-b53bd14f-c290-4bcf-97b8-c0a4b29b76ff.png">
+
 
 * Add the following properties to define the overall size of the grid:
 
