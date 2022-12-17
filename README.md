@@ -21,7 +21,8 @@ Here is what we will build in this section!
 
   * Make sure you review the index.html activity as you write your CSS selectors.
 
-  ![Part 1 HTML](images/part-1-html.png)
+<img width="683" alt="1" src="https://user-images.githubusercontent.com/102771343/208268967-ce807b6b-b540-4f72-8592-5c079c62d73c.png">
+
 
 * In `style.css`, create a selector that targets the `heroGrid ID`.
 
