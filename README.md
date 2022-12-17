@@ -10,7 +10,8 @@ In this activity, you will use CSS Grid to re-create the design of an online fur
 
 Here is what we will build in this section!
 
-  ![Part 1 Solution](images/part-1-solution.png)
+<img width="711" alt="part-1-solution" src="https://user-images.githubusercontent.com/102771343/208268866-696ae111-6b4f-47b9-8528-5e434e438c3f.png">
+
 
 * Open the files `index.html` and `style.css`. 
 
