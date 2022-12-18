@@ -32,7 +32,7 @@ Here is what we will build in this section!
 
 * Add the following properties to define the overall size of the grid:
 
-  ![Grid Size Properties](images/grid-size-properties.png)
+<img width="744" alt="grid-size-properties" src="https://user-images.githubusercontent.com/102771343/208270610-f817094f-8f98-489d-b545-725f95627b6f.png">
 
 * Now that you have sized the CSS Grid, it’s time to add more CSS properties. Use the `grid-template-rows:`, `grid-template-columns:`, and `grid-template-areas`: properties to create the structure of the CSS Grid.
 
