@@ -72,7 +72,9 @@ Here is what we will build in this section!
 
 * Add the following properties and values to the `#CTA ID` selector. These will be used to style content within this grid area.
 
-  ![CTA Properties](images/CTA-properties.png)
+
+<img width="686" alt="CTA-properties" src="https://user-images.githubusercontent.com/102771343/208270752-9ef2f892-9cd0-47e9-afc1-971ee324d9aa.png">
+
 
 * Notice the repeated `.heroGridArea` class on each grid area in `index.html`. You can use CSS to target all instances of that class and style each instance the same way.
 Create a CSS selector that targets the `.heroGridArea` class and add the following CSS properties:
