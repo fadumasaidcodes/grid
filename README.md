@@ -79,7 +79,10 @@ Here is what we will build in this section!
 * Notice the repeated `.heroGridArea` class on each grid area in `index.html`. You can use CSS to target all instances of that class and style each instance the same way.
 Create a CSS selector that targets the `.heroGridArea` class and add the following CSS properties:
 
-  ![heroGridArea Properties](images/heroGridArea-properties.png)
+
+
+<img width="329" alt="heroGridArea-properties" src="https://user-images.githubusercontent.com/102771343/208270785-e89b9cda-bba4-46bf-b22d-cf222d0cf619.png">
+
 
 * Open `index.html` in your browser. It should almost look complete, except for the fact that the headline `div` isn’t in the right place.
 
