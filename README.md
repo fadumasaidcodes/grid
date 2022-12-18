@@ -48,7 +48,9 @@ Here is what we will build in this section!
 
 * Hero grid layout visual:
 
-  ![Hero Grid Layout](images/hero-grid-layout.png)
+
+<img width="733" alt="hero-grid-layout" src="https://user-images.githubusercontent.com/102771343/208270679-f1634048-92fd-4aff-9870-02c469f4dcb3.png">
+
 
 * Next, add to your CSS: `#heroGrid{ grid-template-areas: }`.
 
