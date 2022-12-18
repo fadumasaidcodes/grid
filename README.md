@@ -60,7 +60,7 @@ Here is what we will build in this section!
 
   * HTML reference:
 
-  ![HTML Reference](images/html-reference.png)
+<img width="786" alt="html-reference" src="https://user-images.githubusercontent.com/102771343/208270720-a7c8e487-3f05-4f28-9f69-fd660eebc430.png">
 
 * Create three CSS selectors that target the IDs of each area within the grid from the HTML: `featuredProduct`, `secondaryProduct`, and `CTA`.
 
